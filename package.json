@@ -1,0 +1,31 @@
+{
+  "name": "@kurtaclan/react-boilerplate",
+  "version": "1.0.0",
+  "description": "Simple react boilerplates, up to date and clean",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kurtaclan/boilerplate.git"
+  },
+  "keywords": [
+    "react",
+    "boilerplate",
+    "bootstrap",
+    "typescript",
+    "redux"
+  ],
+  "author": "Travis Peterson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kurtaclan/boilerplate/issues"
+  },
+  "homepage": "https://github.com/Kurtaclan/boilerplate#readme",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "rimraf": "^2.6.3"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {}
+}
